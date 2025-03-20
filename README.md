@@ -1,5 +1,5 @@
 # Chrisbon Footprint
----
+
 This is a simple Python script to combine JSON files into a single CSV file.
 
 ## Running
